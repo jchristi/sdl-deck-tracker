@@ -21,4 +21,4 @@ clean:
 
 .PHONY: run
 run:
-	@./hdt
+	@./$(OBJECTS)
